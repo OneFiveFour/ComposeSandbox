@@ -2,15 +2,6 @@
 <project version="4">
   <component name="deploymentTargetDropDown">
     <value>
-      <entry key="FullScreenComposable">
-        <State />
-      </entry>
-      <entry key="StButtonPreview">
-        <State />
-      </entry>
-      <entry key="SwitchTextFieldPreview">
-        <State />
-      </entry>
       <entry key="app">
         <State />
       </entry>
